@@ -1,0 +1,27 @@
+yarn add v1.22.4
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info fsevents@2.1.3: The platform "win32" is incompatible with this module.
+info "fsevents@2.1.3" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved 8 new dependencies.
+info Direct dependencies
+├─ @typescript-eslint/eslint-plugin@3.8.0
+├─ @typescript-eslint/parser@3.8.0
+├─ eslint-config-standard@14.1.1
+├─ eslint-plugin-import@2.22.0
+├─ eslint-plugin-node@11.1.0
+├─ eslint-plugin-promise@4.2.1
+├─ eslint-plugin-standard@4.0.1
+└─ eslint@7.6.0
+info All dependencies
+├─ @typescript-eslint/eslint-plugin@3.8.0
+├─ @typescript-eslint/parser@3.8.0
+├─ eslint-config-standard@14.1.1
+├─ eslint-plugin-import@2.22.0
+├─ eslint-plugin-node@11.1.0
+├─ eslint-plugin-promise@4.2.1
+├─ eslint-plugin-standard@4.0.1
+└─ eslint@7.6.0
+Done in 4.96s.
